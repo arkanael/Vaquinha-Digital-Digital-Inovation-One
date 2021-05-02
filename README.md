@@ -1,9 +1,9 @@
-# ?? Vaquinha Digital
+# 🏧 Vaquinha Digital
 
-## ?? Sobre o Projeto
+## 💻 Sobre o Projeto
 Projeto de desafio de teste da Digital Innovation One, onde utilizamos o conceito de TDD para testar o app.
 
-### ?? Contatos
+### 📧 Contatos
 
 <h4>LinkedIn: <a href="https://www.linkedin.com/in/lbandeira/">www.linkedin.com/in/lbandeira/</a></h4>
 <h4>Facebook: <a href="https://www.facebook.com/luiz.guilherme.58367/">https://www.facebook.com/luiz.guilherme.58367/</a></h4>
